@@ -13,7 +13,7 @@ click==8.1.7
 colorama==0.4.6
 comtypes==1.4.7
 decorator==5.2.1
-discord.py==2.4.0
+discord.py==2.3.2
 docutils==0.21.2
 et_xmlfile==2.0.0
 executing==2.2.0
